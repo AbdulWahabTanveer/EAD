@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj": {}
+    "C:\\Users\\Abdul-Wahab\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj": {
+    "C:\\Users\\Abdul-Wahab\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj",
+        "projectUniqueName": "C:\\Users\\Abdul-Wahab\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj",
         "projectName": "Lecture13",
-        "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj",
-        "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\obj\\",
+        "projectPath": "C:\\Users\\Abdul-Wahab\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj",
+        "packagesPath": "C:\\Users\\Abdul-Wahab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdul-Wahab\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdul-Wahab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,22 +38,42 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.31, 3.1.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

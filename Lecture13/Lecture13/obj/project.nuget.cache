@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/29pQhjA6fwyB1AAwvtEDO4/1Wio9oiXaa/4ZUr4hwhEi5Qff4bjrzmXCLDPPbg89UPa4fmw52zcolRk8ZrtVA==",
+  "dgSpecHash": "28FzlS+d+DtkfDeAX5svaD1phBfm2vDFII1HNstjQX37Y9vGF3wI9P8hKboI0+Y+tKSRg0hL4BYKjk6Zoyj6Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Abdul-Wahab\\Documents\\GitHub\\EAD\\Lecture13\\Lecture13\\Lecture13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdul-Wahab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Abdul-Wahab\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Abdul-Wahab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Abdul-Wahab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
   "logs": []
 }
